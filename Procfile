@@ -1,1 +1,1 @@
-worker: bin/AutoApproverBot
+worker: python3 bot.py
