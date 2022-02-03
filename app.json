@@ -12,7 +12,7 @@
     "repository": "https://github.com/Reeshuxd/AutoApproverBot",
     "success_url": "https://t.me/Userchatroom",
     "website": "https://t.me/Userchatroom",
-    "emv": {
+    "env": {
         "TOKEN": {
             "description": "Your telegram bot token (@BotFather)",
             "required": true
