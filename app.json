@@ -20,7 +20,7 @@
     },
     "buildpacks": [
         {
-            "url": "heroku/go"
+            "url": "heroku/python"
         }
     ]
 }
